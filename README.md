@@ -1,2 +1,2 @@
 # LeetCode
-By using Python, the best solution should be one line.
+In my opinion, the best solution should be one line and does not use third-party package (using standard operations instead).
